@@ -27,6 +27,7 @@
         ///  the contents of this method with the code editor.
         /// </summary>
         private void InitializeComponent() {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             btnClick=new Button();
             btnStop=new Button();
             countdownLabel=new Label();
@@ -80,6 +81,7 @@
             Controls.Add(countdownLabel);
             Controls.Add(btnStop);
             Controls.Add(btnClick);
+            Icon=(Icon)resources.GetObject("$this.Icon");
             Name="Form1";
             Text="Form1";
             ResumeLayout(false);

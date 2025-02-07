@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MouseClick")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c30a9a772f31f4622109936565516964f379b854")]
 [assembly: System.Reflection.AssemblyProductAttribute("MouseClick")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MouseClick")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
