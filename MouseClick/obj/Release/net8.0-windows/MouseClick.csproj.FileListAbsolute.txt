@@ -1,0 +1,16 @@
+C:\Users\jdelgado\source\repos\MouseClickSimulator\MouseClick\bin\Release\net8.0-windows\MouseClick.exe
+C:\Users\jdelgado\source\repos\MouseClickSimulator\MouseClick\bin\Release\net8.0-windows\MouseClick.deps.json
+C:\Users\jdelgado\source\repos\MouseClickSimulator\MouseClick\bin\Release\net8.0-windows\MouseClick.runtimeconfig.json
+C:\Users\jdelgado\source\repos\MouseClickSimulator\MouseClick\bin\Release\net8.0-windows\MouseClick.dll
+C:\Users\jdelgado\source\repos\MouseClickSimulator\MouseClick\bin\Release\net8.0-windows\MouseClick.pdb
+C:\Users\jdelgado\source\repos\MouseClickSimulator\MouseClick\obj\Release\net8.0-windows\MouseClick.Form1.resources
+C:\Users\jdelgado\source\repos\MouseClickSimulator\MouseClick\obj\Release\net8.0-windows\MouseClick.csproj.GenerateResource.cache
+C:\Users\jdelgado\source\repos\MouseClickSimulator\MouseClick\obj\Release\net8.0-windows\MouseClick.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jdelgado\source\repos\MouseClickSimulator\MouseClick\obj\Release\net8.0-windows\MouseClick.AssemblyInfoInputs.cache
+C:\Users\jdelgado\source\repos\MouseClickSimulator\MouseClick\obj\Release\net8.0-windows\MouseClick.AssemblyInfo.cs
+C:\Users\jdelgado\source\repos\MouseClickSimulator\MouseClick\obj\Release\net8.0-windows\MouseClick.csproj.CoreCompileInputs.cache
+C:\Users\jdelgado\source\repos\MouseClickSimulator\MouseClick\obj\Release\net8.0-windows\MouseClick.dll
+C:\Users\jdelgado\source\repos\MouseClickSimulator\MouseClick\obj\Release\net8.0-windows\refint\MouseClick.dll
+C:\Users\jdelgado\source\repos\MouseClickSimulator\MouseClick\obj\Release\net8.0-windows\MouseClick.pdb
+C:\Users\jdelgado\source\repos\MouseClickSimulator\MouseClick\obj\Release\net8.0-windows\MouseClick.genruntimeconfig.cache
+C:\Users\jdelgado\source\repos\MouseClickSimulator\MouseClick\obj\Release\net8.0-windows\ref\MouseClick.dll
